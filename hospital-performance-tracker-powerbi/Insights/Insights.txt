@@ -1,0 +1,7 @@
+Key Insights
+
+- Identified peak patient admission periods.
+- Tracked occupancy utilization trends.
+- Evaluated doctor performance metrics.
+- Monitored revenue contribution by department.
+- Improved visibility into treatment outcomes.
