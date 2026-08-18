@@ -14,7 +14,7 @@ This project addresses these challenges by creating an interactive dashboard tha
 •	Average Length of Stay
 
 ## Project Overview
-This project analyzes 7,157 patient records between December 2022 and March 2024 from a hospital operations dataset, transforming raw admissions, billing, and feedback data into an interactive Power BI dashboard for operational decision-making.
+This project analyzes 7,157 patient records from a hospital operations dataset spanning December 2022 to March 2024, transforming raw admissions, billing, and feedback data into an interactive Power BI dashboard for operational decision-making.
 
 ## Key Results
 | Metric | Result |
@@ -24,10 +24,10 @@ This project analyzes 7,157 patient records between December 2022 and March 2024
 | Insurance coverage ratio | 90% of billing covered by insurance |
 | Average length of stay | 8.2 days (median: 5 days) |
 | Bed occupancy mix | 50% Private / 33% General / 17% ICU |
-| Peak admission month | March 2023 — 609 admissions |
+| Peak admission month | March 2023 —> 609 admissions |
 | Patient satisfaction | 82.5% of patients rated care 4.5★ or higher |
-| Most common diagnosis | Viral Infection — 28% of all cases |
-| Most common test ordered | Blood Test — 31% of all tests ordered |
+| Most common diagnosis | Viral Infection —> 28% of all cases |
+| Most common test ordered | Blood Test —> 31% of all tests ordered |
 | Physician workload | Evenly distributed, ~1,020 patients per physician (7 physicians) |
 
 ## What Was Done
@@ -43,7 +43,7 @@ Analyzed billing vs. insurance coverage, average cost per diagnosis, and revenue
   Summarized patient feedback and satisfaction scores across diagnoses and    physicians
 
 ## Dataset
-The dataset (hospital_performance_data.csv) contains the following fields:
+The `dataset` (hospital_performance_data.csv) contains the following fields:
 •	`Patient_ID`- unique patient identifier
 •	`Admit_Date` / `Discharge_Date`- admission and discharge dates
 •	`Diagnosis`- one of 6 categories (Viral Infection, Flu, Malaria, Typhoid, Pneumonia, Fracture)
